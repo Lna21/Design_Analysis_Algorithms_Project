@@ -5,3 +5,4 @@ parking-agent/
 .DS_Store
 replays/
 student_replays/
+../venv/
